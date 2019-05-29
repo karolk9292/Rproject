@@ -4,8 +4,9 @@ title: "Analiza Długości Śledzia w Czasie"
 author: "Karol Kuchta"
 date: "`r Sys.Date()`"
 output:
-  rmarkdown::github_document:
-    toc: true
+  md_document:
+    variant: markdown_github
+    
     theme: united
 
 ---
