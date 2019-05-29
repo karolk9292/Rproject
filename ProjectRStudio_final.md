@@ -1,6 +1,6 @@
 ---
 title: "Analiza Długości Śledzia w Czasie"
-knit(input="readme.rmd", output = "readme.md")
+
 author: "Karol Kuchta"
 date: "`r Sys.Date()`"
 output:
